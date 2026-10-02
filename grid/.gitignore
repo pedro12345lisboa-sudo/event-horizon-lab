@@ -1,0 +1,9 @@
+# artefatos gerados (PNG, vídeo)
+out/
+
+# symlink local de libGL.so (criado por run_grid.sh, específico da máquina)
+lib/
+
+# Python
+__pycache__/
+*.py[cod]
