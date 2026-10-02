@@ -1,0 +1,13 @@
+# artefatos gerados pelo pipeline
+out/
+
+# binário compilado
+geodesics
+
+# Python
+__pycache__/
+*.py[cod]
+
+# backups
+*.bak
+*.orig
